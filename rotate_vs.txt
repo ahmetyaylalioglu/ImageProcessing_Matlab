@@ -1,0 +1,8 @@
+A = imrotate(I,90);
+imshow(A);
+
+for i = 1:numel(I)
+
+https://github.com/jkovacic/coursera_imageproc/blob/master/week1/reduce_img_res.m
+
+http://feichashao.com/matlab_week1/
